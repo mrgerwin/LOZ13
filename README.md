@@ -7,9 +7,10 @@ Some minor updates:  Link's PNG file now doesn't include the grey box around him
 
 game1.11.py is the game file we will start with today along with pygame_functions10.py from last time.  game1.11.1.py is the completed game file at the end of the video as well as pygame_functions11.py is the finished functions file.  
 
-Video - YouTube -  
-Video - EdPuzzle -   
-Slides -   
+Video - YouTube - https://www.youtube.com/watch?v=WuRfxPDI0Uo   
+Video - EdPuzzle - Part 1 - https://edpuzzle.com/media/5f28704ab5b95b3f0eba929c  
+Video - EdPuzzle - Part 2 - https://edpuzzle.com/media/5f2873442e2ccd3f706938d3  
+Slides - https://docs.google.com/presentation/d/1KKAy-gArcu9d2wJ3PmxVjPo-RCS-jWCGHasHmOSEDrQ/edit?usp=sharing    
 
 Extensions:  
 1. What if we want to also save link's kill count in the database.  Delete the current database file.  Alter the python_functions code to make another field when making the table.  The kills field should have integer datatype.
